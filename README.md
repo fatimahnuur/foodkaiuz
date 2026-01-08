@@ -49,7 +49,7 @@ Modelni o'qitish uchun **1200+** ta original rasmdan iborat **"Custom Dataset"**
 6.  🍕 Pizza
 7.  🥗 Grek Salati
 8.  🥔 Kartoshka Chips
-9.  🍇 Dolma
+9.  🍇 Do'lma
 10. 🥐 Cinnamon Rolls
 
 ### 📈 Natijalar:
