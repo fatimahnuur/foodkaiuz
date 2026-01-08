@@ -1,0 +1,100 @@
+[
+  {
+    "name": "CinnamonRolls",
+    "total_base_kcal": 473,
+    "ingredients": [
+      {"item": "Xamir (un, sut)", "kcal": 250, "default": true},
+      {"item": "Sariyog'", "kcal": 100, "default": true},
+      {"item": "Shakar va dolchin", "kcal": 80, "default": true},
+      {"item": "Glazur (kremi)", "kcal": 43, "default": true}
+    ]
+  },
+  {
+    "name": "Somsa",
+    "total_base_kcal": 250,
+    "ingredients": [
+      {"item": "Xamir", "kcal": 120, "default": true},
+      {"item": "Go'sht (mol)", "kcal": 80, "default": true},
+      {"item": "Piyoz", "kcal": 10, "default": true},
+      {"item": "Dumba yog'i", "kcal": 40, "default": true}
+    ]
+  },
+  {
+    "name": "Shorva",
+    "total_base_kcal": 120,
+    "ingredients": [
+      {"item": "Go'shtli bulyon", "kcal": 50, "default": true},
+      {"item": "Qo'y go'shti", "kcal": 40, "default": true},
+      {"item": "Kartoshka", "kcal": 20, "default": true},
+      {"item": "Sabzi", "kcal": 10, "default": true}
+    ]
+  },
+  {
+    "name": "KartoshkaChips",
+    "total_base_kcal": 536,
+    "ingredients": [
+      {"item": "Kartoshka", "kcal": 300, "default": true},
+      {"item": "O'simlik yog'i", "kcal": 200, "default": true},
+      {"item": "Tuz va ziravorlar", "kcal": 36, "default": true}
+    ]
+  },
+  {
+    "name": "Palov",
+    "total_base_kcal": 330,
+    "ingredients": [
+      {"item": "Guruch", "kcal": 150, "default": true},
+      {"item": "Go'sht", "kcal": 100, "default": true},
+      {"item": "Sabzi", "kcal": 40, "default": true},
+      {"item": "Yog'", "kcal": 40, "default": true},
+      {"item": "Mayiz/No'xat", "kcal": 20, "default": false}
+    ]
+  },
+  {
+    "name": "GrekSalati",
+    "total_base_kcal": 115,
+    "ingredients": [
+      {"item": "Feta pishlog'i", "kcal": 50, "default": true},
+      {"item": "Zaytun yog'i", "kcal": 30, "default": true},
+      {"item": "Sabzavotlar", "kcal": 25, "default": true},
+      {"item": "Zaytun mevalari", "kcal": 10, "default": true}
+    ]
+  },
+  {
+    "name": "Dolma",
+    "total_base_kcal": 140,
+    "ingredients": [
+      {"item": "Uzum bargi", "kcal": 10, "default": true},
+      {"item": "Go'shtli qiyma", "kcal": 100, "default": true},
+      {"item": "Guruch", "kcal": 30, "default": true},
+      {"item": "Qatiq (sous)", "kcal": 10, "default": false}
+    ]
+  },
+  {
+    "name": "Tovuq",
+    "total_base_kcal": 239,
+    "ingredients": [
+      {"item": "Tovuq go'shti", "kcal": 180, "default": true},
+      {"item": "Yog' (qovurish)", "kcal": 40, "default": true},
+      {"item": "Ziravorlar", "kcal": 19, "default": true}
+    ]
+  },
+  {
+    "name": "Pizza",
+    "total_base_kcal": 250,
+    "ingredients": [
+      {"item": "Pitsa xamiri", "kcal": 120, "default": true},
+      {"item": "Pishloq (Motsarella)", "kcal": 80, "default": true},
+      {"item": "Sous va kolbasa", "kcal": 50, "default": true},
+      {"item": "Zaytun/Qo'ziqorin", "kcal": 16, "default": false}
+    ]
+  },
+  {
+    "name": "Shashlik",
+    "total_base_kcal": 220,
+    "ingredients": [
+      {"item": "Go'sht (mol/qo'y)", "kcal": 160, "default": true},
+      {"item": "Dumba yog'i", "kcal": 50, "default": true},
+      {"item": "Piyoz (garnir)", "kcal": 10, "default": true}
+    ]
+  }
+]
